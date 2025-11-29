@@ -20,7 +20,7 @@ Live demo link: https://currency-convertor-devxt.vercel.app/
 
 ---
 
-## 🚀 How to Run Locally  
+## How to Run Locally  
 
 ```bash
 # Clone the repo
