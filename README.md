@@ -2,7 +2,7 @@
 
 A simple web application to convert between currencies — just enter an amount, choose the source and target currencies, and get the converted value.  
 
-Live demo link: https://currency-convertor-devxt.vercel.app/
+Live demo : https://currency-convertor-devxt.vercel.app/
 
 ---
 
