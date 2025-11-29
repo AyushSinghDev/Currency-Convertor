@@ -26,7 +26,6 @@ Live demo link: https://currency-convertor-devxt.vercel.app/
 # Clone the repo
 git clone https://github.com/AyushSinghDev/Currency-Convertor.git
 
-# Open index.html in browser
+# Open index.html in browser (Hit -> Go Live [Live Server extension])
 cd Currency-Convertor
 open index.html   # or double-click the file
-Hit -> Go Live
